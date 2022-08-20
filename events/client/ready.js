@@ -79,9 +79,9 @@ function change_status(client){
 }
 /**
   * @INFO
-  * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+  * Bot Coded by Mike | https://redmibot.es/
   * @INFO
-  * Work for Milrato Development | https://milrato.eu
+  * Work for Milrato Development | https://redmibot.es/
   * @INFO
   * Please mention him / Milrato Development, when using this Code!
   * @INFO

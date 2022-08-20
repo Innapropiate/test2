@@ -1797,7 +1797,7 @@ module.exports = function (client) {
     })
 
 }
-//Coded by Tomato#6966!
+//Coded by Mike!
 function shortenLargeNumber(num, digits) {
     var units = ["k", "M", "G", "T", "P", "E", "Z", "Y"],
         decimal;

@@ -148,7 +148,7 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
 # Credits
 
 > If you consider using this Bot, make sure to credit me!
-> Example: `Bot Coded by [Tomato#6966](https://discord.gg/dcdev) but modified by [modifier/your Name](https://discord.gg/)`
+> Example: `Bot Coded by [Mike](https://discord.gg/dcdev) but modified by [modifier/your Name](https://discord.gg/)`
 
 # Contributing
 
